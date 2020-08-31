@@ -1,0 +1,21 @@
+body{
+  font-family: "Google Sans", sans-serif !important;
+}
+button{
+  border:none !important;
+}
+.StripeCheckout{
+  border:none !important;
+  outline: none !important;
+  border-radius: 0px !important;
+  background: #000 !important;
+  background-image:none !important;
+  background-color: #000 !important;
+}
+
+.StripeCheckout span {
+  background: #000 !important;
+  background-image:none !important;
+  background-color: #000 !important;
+  border-radius: 0px !important;
+}
